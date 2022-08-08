@@ -1,6 +1,6 @@
 ## Hi, I'm Ross 👋🏻👨🏻‍💻
 
-I'm a front-end developer, designer and software engineer from Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 I've been a developer for over 9 years now, with a primary focus on creating wonderful user experiences.
+I'm a full-stack developer, designer and software engineer from Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 I've been a developer for over 9 years now, with a primary focus on creating wonderful user experiences.
 
 ## 📊 Stats
 
