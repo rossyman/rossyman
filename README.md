@@ -4,7 +4,7 @@ I'm a full-stack developer, designer and software engineer from Glasgow, Scotlan
 
 ## 📊 Stats
 
-![Ross's GitHub stats](https://github-readme-stats.vercel.app/api?username=rossyman&count_private=true)
+![Ross's GitHub stats](https://github-readme-stats.vercel.app/api?username=rossyman&show_icons=true&count_private=true)
 
 ## 📫 Getting in Touch
 - Find me on LinkedIn: [Ross MacPhee](https://www.linkedin.com/in/ross-macphee/)
