@@ -4,7 +4,7 @@ I'm a full-stack software engineer and UI/UX designer from Glasgow, Scotland �
 
 ## 📊 Stats
 
-![Ross's GitHub stats](https://github-readme-stats.vercel.app/api?username=rossyman&show_icons=true&count_private=true)
+![Ross's GitHub stats](https://github-readme-stats.vercel.app/api?username=rossyman&show_icons=true&count_private=true&include_all_commits=true)
 
 ## 📫 Getting in Touch
 - Find me on LinkedIn: [Ross MacPhee](https://www.linkedin.com/in/ross-macphee/)
